@@ -25,6 +25,8 @@ const options = {
   origin: [
     'http://best-film.monichev-id.ru',
     'https://best-film.monichev-id.ru',
+    'http://localhost:3000',
+    'http://localhost:3000',
   ],
   allowedHeaders: ['Content-Type', 'origin', 'Accept', 'Set-Cookie'],
   methods: ['GET', 'POST', 'DELETE', 'UPDATE', 'PUT', 'PATCH'],
