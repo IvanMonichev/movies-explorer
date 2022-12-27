@@ -42,6 +42,8 @@ ___
 - переписать код на TypeScript.
 
 ___
+Ссылка на проект – [best-film.monichev-id.ru](https://best-film.monichev-id.ru/)
+---
 
 ### 💡 Запуск проекта:
 1. Для запуска проекта потребуется установленная база данных [MongoDB](https://mongodb.prakticum-team.ru/try/download/community?jmp=docs).
